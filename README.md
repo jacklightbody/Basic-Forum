@@ -1,0 +1,1 @@
+This is a very simple, free forum for concrete5. To install, just download the file in the downloads section and upload to root/packages. Requires v5.5
